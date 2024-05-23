@@ -1,0 +1,1 @@
+{"uuid":"85359f9e-7419-43ae-8928-fe19cbdf0aee","name":"Test On IE","children":["26547f03-1e1d-41a7-8259-fb44d37826aa"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1714940490995,"stop":1714940500403}],"afters":[],"start":1714940490965,"stop":1714940502597}

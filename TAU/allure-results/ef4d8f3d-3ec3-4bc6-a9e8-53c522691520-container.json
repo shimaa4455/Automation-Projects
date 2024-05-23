@@ -1,0 +1,1 @@
+{"uuid":"ef4d8f3d-3ec3-4bc6-a9e8-53c522691520","name":"Test On Firefox","children":["36982adc-089f-43d1-8e93-80bd860386b0"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1714953232335,"stop":1714953238150}],"afters":[],"start":1714953232311,"stop":1714953239599}
